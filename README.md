@@ -193,8 +193,8 @@ deepfake-detection/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/omkar22A/deepfake-detection.git
-cd deepfake-detection
+git clone https://github.com/Mahdi-Bel-Haj-Said/AI-Generated-Videos-Detection-system-.git 
+cd AI-Generated-Videos-Detection-system
 ```
 
 ### 2. Create a virtual environment
@@ -396,29 +396,3 @@ This project provided practical experience with:
 
 ---
 
-## 👥 Contributors
-
-- **Omkar Avasarkar** — Project Lead, ML Development & Web Application
-- **Dnyaneshwari Sonawane** — Dataset Preparation, Testing & Documentation
-
----
-
-## 👨‍💻 Author
-
-**Omkar Avasarkar**
-
-AI & Data Science Engineer
-
-Interested in:
-
-- Data Science
-- Machine Learning
-- Data Analytics
-- Artificial Intelligence
-- Python Development
-
----
-
-## ⭐ Project
-
-If you find the project useful or interesting, consider giving the repository a ⭐ on GitHub.
